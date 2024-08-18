@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//kafka/","title":"Kafka入门教程 (一) 基本概念","tags":["Kafka"]}
+{"dg-publish":true,"dg-permalink":"kafka01","permalink":"/kafka01/","title":"Kafka入门教程 (一) 基本概念","tags":["Kafka"]}
 ---
 
 

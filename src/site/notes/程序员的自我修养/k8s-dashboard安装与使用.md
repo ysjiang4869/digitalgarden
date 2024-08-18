@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//k8s-dashboard/","title":"k8s-dashboard安装与使用","tags":["Kubernetes"]}
+{"dg-publish":true,"dg-permalink":"k8s-dashboard","permalink":"/k8s-dashboard/","title":"k8s-dashboard安装与使用","tags":["Kubernetes"]}
 ---
 
 
