@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-resource//edge-routor-er-x-wire-guard/","title":"EdgeRoutor ER-X WireGuard配置指南","tags":["折腾","网络"],"created":"2022-02-22 17:00","updated":"2024-09-30 17:13"}
+{"dg-publish":true,"dg-permalink":"wireguard","permalink":"/wireguard/","title":"EdgeRoutor ER-X WireGuard配置指南","tags":["折腾","网络"],"created":"2022-02-22 17:00","updated":"2024-10-01 10:07"}
 ---
 
 
